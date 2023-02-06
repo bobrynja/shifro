@@ -1,0 +1,10 @@
+D:\Проги\shifr\shifr\obj\Debug\shifr.csproj.AssemblyReference.cache
+D:\Проги\shifr\shifr\obj\Debug\shifr.Form1.resources
+D:\Проги\shifr\shifr\obj\Debug\shifr.Properties.Resources.resources
+D:\Проги\shifr\shifr\obj\Debug\shifr.csproj.GenerateResource.cache
+D:\Проги\shifr\shifr\obj\Debug\shifr.csproj.CoreCompileInputs.cache
+D:\Проги\shifr\shifr\bin\Debug\shifr.exe.config
+D:\Проги\shifr\shifr\bin\Debug\shifr.exe
+D:\Проги\shifr\shifr\bin\Debug\shifr.pdb
+D:\Проги\shifr\shifr\obj\Debug\shifr.exe
+D:\Проги\shifr\shifr\obj\Debug\shifr.pdb
